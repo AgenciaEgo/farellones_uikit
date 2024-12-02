@@ -1,7 +1,7 @@
 {
     "name": "@egodesign/farellones_uikit",
     "private": false,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "module",
     "browser": "dist/farellones_uikit.umd.js",
     "main": "dist/farellones_uikit.cjs.js",
